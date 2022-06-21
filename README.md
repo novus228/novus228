@@ -59,4 +59,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=novus228">
 </a>
-<a href="https://github.com/novus228?tab=followers"><img src="https://img.shields.io/github/followers/ras733171?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/novus228?tab=followers"><img src="https://img.shields.io/github/followers/novus228?label=Followers&style=social" alt="GitHub Badge"></a>
